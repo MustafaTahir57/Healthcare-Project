@@ -1,0 +1,334 @@
+.navbar-main{
+    background-color: #071e34;
+}
+.btn-connect{
+    background-color: #154270;
+    border: none;
+    width: 140px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.btn-connect:hover{
+  background-color: #154270;
+  border: none;
+  width: 140px;
+  font-weight: 600;
+  font-size: 15px;
+}
+.btn-submot{
+  background-color: #071e34;
+    border: none;
+    width: 140px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.btn-submot:hover{
+  background-color: #071e34;
+    border: none;
+    width: 140px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.nav-text{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.nav-text:hover{
+    color: #31D2F2;
+    font-size: 16px;
+    font-weight: 600;
+}
+.navbar-nav .nav-link.active{
+    color: #31D2F2;
+    font-size: 16px;
+    font-weight: 600;
+}
+.navbar-toggler{
+    background-color: #fff !important;
+}
+.patient-h3{
+    font-size: 28px;
+    font-size: 700;
+    text-shadow:
+    1px 1px 2px black,
+    0 0 1em blue,
+    0 0 0.2em blue;
+}
+.nav-link{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.nav-link:hover{
+    color: #31D2F2;
+    font-size: 16px;
+    font-weight: 600;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #31D2F2;
+    font-size: 16px;
+    font-weight: 600;
+}
+.nav-link:focus{
+    color: #31D2F2;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+.image-css{
+    border-radius: 10px;
+    color: #f0f0f0;
+}
+.container-set{
+    height: 85vh;
+    display: flex;
+    align-items: center;
+}
+
+.home-image{
+    background-image: url("../../assets/health.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  /* width: 100vw; */
+  display: flex;
+    align-items: center;
+}
+.trust-h1{
+    font-size: 52px;
+    font-weight: 700;
+    color: black;
+    display: flex;
+    align-items: center;
+}
+
+.healthcare-p{
+    color: black;
+    font-weight: 600;
+}
+         
+.btn-grad {
+    background-image: linear-gradient(to right, #24C6DC 0%, #514A9D  51%, #24C6DC  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    font-weight: 600;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; 
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+         
+.down-image{
+    background-image: url("../../assets/Group-96-4.png");
+    height: 70vh;
+    background-repeat: no-repeat;
+  background-size:contain;
+  background-position: center;
+}
+.ladies-image{
+    max-height: 70vh;
+    max-width: 21em
+}
+.home-down{
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+.error-text{
+    font-size: 13px;
+    color: red;
+}
+.top-p{
+    font-size: 20px;
+    font-weight: 600;
+    color: #dddddd;
+}
+
+         
+         
+.btn-gradss {
+    background-image: linear-gradient(to right, #4b6cb7 0%, #182848  51%, #4b6cb7  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    font-weight: 600;
+  }
+
+  .btn-gradss:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+ 
+
+
+  /* card */
+  .card{
+    margin: 10px auto;
+    box-shadow: 0px 2px 4px 0 rgba(0,0,0,0.2);
+    border-radius: 6px;
+    height: 100%;
+    transition: 0.3s;
+    background-color: #0f385a;
+    color: #fff;
+  }
+.card:hover {
+  box-shadow: 1px 10px 16px 0 rgba(0,0,0,0.3);
+}
+  .card-title{
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+  }
+  .card-text{
+        font-weight: 600;
+        color: #fff;
+        font-size: 25px;
+        text-align: center;
+  }
+  .card-image{
+    text-align: center;
+    margin: 5vh 0;
+  }
+
+  .title-heading{
+    font-size: 3em;
+    text-align: center;
+    margin: 4%;
+    font-weight: bold;
+  }
+
+.col-card{
+    background-color: #244766;
+    /* height: 300px; */
+    border-radius: 12px;
+    width: 32%;
+}
+.col-card:hover {
+  box-shadow: 1px 10px 16px 0 rgba(0,0,0,0.3);
+}
+@media(max-width:767px){
+  .col-card{
+    background-color: #244766;
+    /* height: 300px; */
+    border-radius: 12px;
+    width: 95%;
+}
+.trust-h1{
+  font-size: 32px;
+  font-weight: 700;
+  color: black;
+  display: flex;
+  align-items: center;
+}
+.container-set{
+  height: auto;
+  display: flex;
+  align-items: center;
+}
+}
+.span-text{
+  font-weight: 600;
+  font-size: 13px;
+  text-align: start;
+}
+.span-text1{
+  font-size: 13px;
+  text-align: end;
+}
+  /* loading */
+  .load-wrapp {
+    position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d8d8d857;
+  }
+  
+  .load-wrapp:last-child {
+    margin-right: 0;
+  }
+  
+  .spinner {
+    position: relative;
+    width: 45px;
+    height: 45px;
+    margin: 0 auto;
+  }
+  
+  .bubble-1,
+  .bubble-2 {
+    position: absolute;
+    top: 0;
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    background-color: #4b9cdb;
+  }
+  
+  .bubble-2 {
+    top: auto;
+    bottom: 0;
+  }
+  
+  .load-9 .spinner {
+    animation: loadingI 2s linear infinite;
+  }
+  .load-9 .bubble-1,
+  .load-9 .bubble-2 {
+    animation: bounce 2s ease-in-out infinite;
+  }
+  .load-9 .bubble-2 {
+    animation-delay: -1s;
+  }
+  
+  @keyframes loadingI {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes bounce {
+    0%,
+    100% {
+      transform: scale(0);
+    }
+    50% {
+      transform: scale(1);
+    }
+  }
+  
